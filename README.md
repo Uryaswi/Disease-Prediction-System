@@ -4,10 +4,10 @@
 A comprehensive web application that predicts multiple diseases based on user-provided data and offers chatbot support for guidance and assistance. The system leverages machine learning models to provide accurate predictions and a powerful LLM-based Bot built with Ollama for user interaction.
 Here's a preview of the web app:
 
+https://github.com/user-attachments/assets/6bcd0dbe-2d29-4f7d-96bf-621398b3d361
 
 ## 🌟 Features
 1. Predicts various diseases such as:
-
 Kidney Disease
 Heart Disease
 Diabetes
