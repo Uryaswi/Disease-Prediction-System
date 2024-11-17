@@ -1,7 +1,7 @@
 # Disease-Prediction-System
 
 ## 🚀 Overview
-A comprehensive web application that predicts multiple diseases based on user-provided data and offers chatbot support for guidance and assistance. The system leverages machine learning models to provide accurate predictions and a chatbot built with Ollama for user interaction.
+A comprehensive web application that predicts multiple diseases based on user-provided data and offers chatbot support for guidance and assistance. The system leverages machine learning models to provide accurate predictions and a powerful LLM -based chatbot built with Ollama for user interaction.
 
 ## 🌟 Features
 1.Predicts various diseases such as:
