@@ -24,11 +24,11 @@ Simple and intuitive design for ease of use.
 Organized navigation for uploading data and viewing predictions.
 
 ## 🛠️ Tech Stack
-Scikit-learn for ML models
-Keras 
-Matplotlib, seaborn for data visualization tasks 
-langchain-community for accessing OLLAMA
-Streamlit
+1. Scikit-learn for ML models
+2. Keras 
+3. Matplotlib, seaborn for data visualization tasks 
+4. langchain-community for accessing OLLAMA
+5. Streamlit for frontend
 
 ## 🧑‍💻 Usage
 1. Navigate to the sidebar.
